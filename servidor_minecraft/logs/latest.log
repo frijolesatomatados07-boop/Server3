@@ -1,0 +1,440 @@
+[00:54:31] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.10+7-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1044-azure (amd64)
+[00:54:31] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.5-114-ver/1.21.5@a1b3058 (2025-06-18T10:59:02Z) for Minecraft 1.21.5
+[00:54:31] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:54:31] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[00:54:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:54:40] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called more_mob_heads:entities/shulker
+[00:54:41] [ServerMain/INFO]: Loaded 1431 recipes
+[00:54:41] [ServerMain/INFO]: Loaded 1702 advancements
+[00:54:41] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[00:54:41] [Server thread/INFO]: Loading properties
+[00:54:41] [Server thread/INFO]: This server is running Paper version 1.21.5-114-ver/1.21.5@a1b3058 (2025-06-18T10:59:02Z) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
+[00:54:41] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[00:54:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:54:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:54:42] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[00:54:42] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[00:54:42] [Server thread/INFO]: Default game type: SURVIVAL
+[00:54:42] [Server thread/INFO]: Generating keypair
+[00:54:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:54:42] [Server thread/INFO]: Using epoll channel type
+[00:54:42] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:54:42] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[00:54:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:54:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:54:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:54:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:54:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:54:43] [Server thread/INFO]: Preparing level "world"
+[00:54:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:54:43] [Server thread/INFO]: Preparing spawn area: 0%
+[00:54:44] [Server thread/INFO]: Preparing spawn area: 0%
+[00:54:44] [Server thread/INFO]: Preparing spawn area: 0%
+[00:54:45] [Server thread/INFO]: Preparing spawn area: 0%
+[00:54:45] [Server thread/INFO]: Preparing spawn area: 0%
+[00:54:46] [Server thread/INFO]: Preparing spawn area: 0%
+[00:54:46] [Server thread/INFO]: Preparing spawn area: 0%
+[00:54:46] [Server thread/INFO]: Time elapsed: 3133 ms
+[00:54:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:54:46] [Server thread/INFO]: Preparing spawn area: 0%
+[00:54:47] [Server thread/INFO]: Time elapsed: 335 ms
+[00:54:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:54:47] [Server thread/INFO]: Preparing spawn area: 0%
+[00:54:47] [Server thread/INFO]: Time elapsed: 65 ms
+[00:54:47] [Server thread/INFO]: [spark] Starting background profiler...
+[00:54:47] [Server thread/INFO]: Done preparing level "world" (4.456s)
+[00:54:47] [Server thread/INFO]: Running delayed init tasks
+[00:54:47] [Server thread/INFO]: Done (17.156s)! For help, type "help"
+[00:55:07] [User Authenticator #0/INFO]: UUID of player JPOLKO is e49ea68c-6b63-36aa-b865-48ca087b01e5
+[00:55:08] [Server thread/INFO]: JPOLKO joined the game
+[00:55:08] [Server thread/INFO]: JPOLKO[/127.192.12.116:42465] logged in with entity id 681 at ([world_nether]61.91762295995993, 128.5, -44.757511685314384)
+[00:55:23] [Server thread/WARN]: JPOLKO moved wrongly!
+[00:55:56] [Server thread/WARN]: JPOLKO moved wrongly!
+[00:59:33] [Server thread/INFO]: JPOLKO issued server command: /gamemode spectator
+[00:59:33] [Server thread/INFO]: [JPOLKO: Set own game mode to Spectator Mode]
+[00:59:56] [Server thread/INFO]: JPOLKO issued server command: /gamemode survival
+[00:59:56] [Server thread/INFO]: [JPOLKO: Set own game mode to Survival Mode]
+[01:01:50] [Server thread/WARN]: JPOLKO moved wrongly!
+[01:07:37] [Server thread/WARN]: JPOLKO moved wrongly!
+[01:10:33] [Server thread/INFO]: JPOLKO issued server command: /gamemode spectator
+[01:10:33] [Server thread/INFO]: [JPOLKO: Set own game mode to Spectator Mode]
+[01:10:47] [Server thread/INFO]: JPOLKO issued server command: /gamemode survival
+[01:10:47] [Server thread/INFO]: [JPOLKO: Set own game mode to Survival Mode]
+[01:11:55] [Server thread/WARN]: JPOLKO moved wrongly!
+[01:20:39] [Server thread/INFO]: Villager Villager['Villager'/54, uuid='4785bb3c-28b0-4eb3-a091-bb7bb847afdc', l='ServerLevel[world]', x=-25.85, y=67.23, z=70.41, cpos=[-2, 4], tl=31034, v=true] died, message: 'Villager was squished too much'
+[01:21:01] [Server thread/INFO]: Villager Villager['Villager'/2834, uuid='e107ed25-1459-44e4-ba27-83a82e5901f0', l='ServerLevel[world]', x=-25.86, y=67.18, z=70.30, cpos=[-2, 4], tl=26898, v=true] died, message: 'Villager was squished too much'
+[01:23:57] [Server thread/INFO]: Villager Villager['Villager'/55, uuid='a49c5722-bbe8-4551-a7a8-b21f55aba5f7', l='ServerLevel[world]', x=-25.89, y=67.20, z=70.68, cpos=[-2, 4], tl=35000, v=true] died, message: 'Villager was squished too much'
+[01:24:13] [Server thread/INFO]: JPOLKO lost connection: Disconnected
+[01:24:13] [Server thread/INFO]: JPOLKO left the game
+[01:24:15] [User Authenticator #1/INFO]: UUID of player JPOLKO is e49ea68c-6b63-36aa-b865-48ca087b01e5
+[01:24:16] [Server thread/INFO]: JPOLKO joined the game
+[01:24:16] [Server thread/INFO]: JPOLKO[/127.192.12.116:55613] logged in with entity id 10407 at ([world_nether]66.58582183267528, 229.5, -49.3326424792403)
+[01:28:13] [Server thread/INFO]: Villager Villager['Villager'/28, uuid='c2013712-759c-4e80-bf49-4a7f7ca6a7aa', l='ServerLevel[world]', x=-25.89, y=67.18, z=70.52, cpos=[-2, 4], tl=40114, v=true] died, message: 'Villager was squished too much'
+[01:31:54] [Server thread/INFO]: Villager Villager['Villager'/26, uuid='e8f8d8ee-aa67-4069-9b7b-7b5ac4d7c6d1', l='ServerLevel[world]', x=-25.88, y=67.19, z=70.46, cpos=[-2, 4], tl=44539, v=true] died, message: 'Villager was squished too much'
+[01:37:12] [Server thread/WARN]: JPOLKO moved wrongly!
+[01:44:49] [Server thread/WARN]: JPOLKO moved wrongly!
+[01:48:03] [Server thread/WARN]: JPOLKO moved wrongly!
+[01:50:24] [Server thread/WARN]: JPOLKO moved wrongly!
+[01:50:51] [User Authenticator #2/INFO]: UUID of player Camilo912a is 214fa58a-b1c8-3354-b45f-665835f641ea
+[01:50:53] [Server thread/INFO]: Camilo912a joined the game
+[01:50:53] [Server thread/INFO]: Camilo912a[/127.190.110.151:47119] logged in with entity id 19759 at ([world_nether]64.53637246383221, 248.0, -45.407729800121984)
+[01:51:12] [Server thread/INFO]: JPOLKO lost connection: Disconnected
+[01:51:12] [Server thread/INFO]: JPOLKO left the game
+[01:51:29] [User Authenticator #2/INFO]: UUID of player JPOLKO is e49ea68c-6b63-36aa-b865-48ca087b01e5
+[01:51:30] [Server thread/INFO]: JPOLKO joined the game
+[01:51:30] [Server thread/INFO]: JPOLKO[/127.192.12.116:34065] logged in with entity id 19924 at ([world_nether]68.66098139309238, 241.0, -67.00182777618828)
+[01:53:41] [Server thread/INFO]: JPOLKO has completed the challenge [Hot Tourist Destinations]
+[01:54:05] [User Authenticator #3/INFO]: UUID of player SoySebas2011 is 6d661683-56da-30ed-8912-23cb67419a7d
+[01:54:06] [Server thread/INFO]: SoySebas2011 joined the game
+[01:54:06] [Server thread/INFO]: SoySebas2011[/127.166.134.64:35545] logged in with entity id 21278 at ([world]-12.5, 67.0, 12.5)
+[01:55:00] [Server thread/WARN]: JPOLKO moved wrongly!
+[01:56:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
+[01:56:05] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:56:05] [Paper Common Worker #0/WARN]: Empty or non-existent pool: siscu:bastion/crevice/base2
+[01:56:05] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:56:05] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:56:05] [Paper Common Worker #0/WARN]: Empty or non-existent pool: siscu:bastion/crevice/base2
+[01:56:05] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:56:19] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=113, z=-131}
+[01:56:19] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=79, y=113, z=-131}
+[01:56:19] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=114, z=-133}
+[01:56:19] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=113, z=-131}
+[01:56:19] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=114, z=-133}
+[01:56:19] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:56:19] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:56:19] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=109, z=22}
+[01:56:19] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:56:19] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:56:20] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:56:20] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=81, y=114, z=-128}
+[01:56:21] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=135, z=25}
+[01:56:21] [Server thread/INFO]: JPOLKO has made the advancement [advancements.siscu.minecraft.withered_grounds.title]
+[01:56:22] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:56:22] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=113, z=-131}
+[01:56:22] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=79, y=113, z=-131}
+[01:56:22] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=114, z=-133}
+[01:56:22] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=113, z=-131}
+[01:56:22] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=114, z=-133}
+[01:56:22] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:56:22] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:56:22] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:56:22] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-36, y=135, z=20}
+[01:56:22] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:56:22] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=113, z=-131}
+[01:56:22] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=79, y=113, z=-131}
+[01:56:22] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=114, z=-133}
+[01:56:22] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=113, z=-131}
+[01:56:22] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=114, z=-133}
+[01:56:22] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=81, y=114, z=-128}
+[01:56:22] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:56:22] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:56:22] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=81, y=114, z=-128}
+[01:56:23] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:56:23] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:56:23] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:56:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=109, z=22}
+[01:56:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=135, z=25}
+[01:56:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-36, y=135, z=20}
+[01:56:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:56:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:56:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:56:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:56:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:56:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:56:55] [Paper Common Worker #0/WARN]: Empty or non-existent pool: siscu:bastion/crevice/base2
+[01:56:55] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:56:55] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:56:55] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:56:55] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:56:55] [Paper Common Worker #0/WARN]: Empty or non-existent pool: siscu:bastion/crevice/base2
+[01:57:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=135, z=25}
+[01:57:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-36, y=135, z=20}
+[01:57:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=109, z=22}
+[01:57:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:57:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:57:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:57:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:57:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:57:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:57:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:57:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=135, z=25}
+[01:57:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-36, y=135, z=20}
+[01:57:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:57:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=135, z=25}
+[01:57:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-36, y=135, z=20}
+[01:57:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:57:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=113, z=-131}
+[01:57:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=79, y=113, z=-131}
+[01:57:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=114, z=-133}
+[01:57:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=113, z=-131}
+[01:57:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=114, z=-133}
+[01:57:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=81, y=114, z=-128}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=113, z=-131}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=79, y=113, z=-131}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=114, z=-133}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=113, z=-131}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=114, z=-133}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=81, y=114, z=-128}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=109, z=22}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=135, z=25}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-36, y=135, z=20}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=113, z=-131}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=79, y=113, z=-131}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=114, z=-133}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=113, z=-131}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=114, z=-133}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=81, y=114, z=-128}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:57:06] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:57:12] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:
+[01:57:12] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:
+[01:57:15] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:57:15] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=109, z=22}
+[01:57:15] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:57:15] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:57:15] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:57:19] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:
+[01:57:19] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:
+[01:57:26] [Paper Common Worker #0/WARN]: Empty or non-existent pool: siscu:bastion/crevice/base2
+[01:57:26] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:57:26] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:57:26] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:57:26] [Paper Common Worker #0/WARN]: Empty or non-existent pool: siscu:bastion/crevice/base2
+[01:57:26] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:57:28] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:57:28] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:57:28] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:57:28] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:57:28] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:57:28] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=113, z=-131}
+[01:57:28] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=79, y=113, z=-131}
+[01:57:28] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=114, z=-133}
+[01:57:28] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=113, z=-131}
+[01:57:28] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=114, z=-133}
+[01:57:28] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=81, y=114, z=-128}
+[01:57:28] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:57:28] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:57:28] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:57:28] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=109, z=22}
+[01:57:28] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:57:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:57:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=109, z=22}
+[01:57:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=113, z=-131}
+[01:57:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=79, y=113, z=-131}
+[01:57:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=114, z=-133}
+[01:57:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=113, z=-131}
+[01:57:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=114, z=-133}
+[01:57:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=81, y=114, z=-128}
+[01:57:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=109, z=22}
+[01:57:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=81, y=114, z=-128}
+[01:57:30] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:57:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:57:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:57:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:57:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:57:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=135, z=25}
+[01:57:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-36, y=135, z=20}
+[01:57:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:57:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=135, z=25}
+[01:57:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-36, y=135, z=20}
+[01:57:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=135, z=25}
+[01:57:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-36, y=135, z=20}
+[01:57:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=109, z=22}
+[01:57:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:57:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=113, z=-131}
+[01:57:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=79, y=113, z=-131}
+[01:57:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=114, z=-133}
+[01:57:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=113, z=-131}
+[01:57:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=114, z=-133}
+[01:57:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=109, z=22}
+[01:57:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:57:40] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:
+[01:57:40] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:
+[01:59:10] [Server thread/INFO]: SoySebas2011 has made the advancement [Stone Age]
+[01:59:17] [Server thread/INFO]: SoySebas2011 has made the advancement [Getting an Upgrade]
+[01:59:34] [Async Chat Thread - #1/INFO]: [Not Secure] <JPOLKO> survivors elegy
+[01:59:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2528ms or 50 ticks behind
+[02:00:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10661ms or 213 ticks behind
+[02:00:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[02:00:54] [Server thread/INFO]: SoySebas2011 lost connection: Disconnected
+[02:00:54] [Server thread/INFO]: SoySebas2011 left the game
+[02:01:25] [Server thread/INFO]: JPOLKO issued server command: /tp Camilo912a
+[02:01:25] [Server thread/INFO]: [JPOLKO: Teleported JPOLKO to Camilo912a]
+[02:02:03] [User Authenticator #4/INFO]: UUID of player SoySebas2011 is 6d661683-56da-30ed-8912-23cb67419a7d
+[02:02:04] [Server thread/INFO]: SoySebas2011 joined the game
+[02:02:04] [Server thread/INFO]: SoySebas2011[/127.166.134.64:50199] logged in with entity id 34522 at ([world]-46.30846860780123, 71.0, 64.77329127034727)
+[02:02:10] [Server thread/WARN]: JPOLKO moved wrongly!
+[02:02:57] [Server thread/INFO]: JPOLKO issued server command: /tp SoySebas2011 JPOLKO
+[02:02:57] [Server thread/INFO]: [JPOLKO: Teleported SoySebas2011 to JPOLKO]
+[02:04:25] [Server thread/INFO]: Villager Villager['Villager'/31, uuid='b2846e13-a3a4-4031-a706-f91f5514b6b8', l='ServerLevel[world]', x=-25.85, y=67.19, z=70.31, cpos=[-2, 4], tl=83201, v=true] died, message: 'Villager was squished too much'
+[02:05:22] [Server thread/INFO]: SoySebas2011 has made the advancement [Acquire Hardware]
+[02:05:38] [Server thread/INFO]: SoySebas2011 lost connection: Disconnected
+[02:05:38] [Server thread/INFO]: SoySebas2011 left the game
+[02:05:40] [User Authenticator #5/INFO]: UUID of player SoySebas2011 is 6d661683-56da-30ed-8912-23cb67419a7d
+[02:05:41] [Server thread/INFO]: SoySebas2011 joined the game
+[02:05:41] [Server thread/INFO]: SoySebas2011[/127.166.134.64:37255] logged in with entity id 37270 at ([world]-25.30000001192093, 71.0, 32.47057986118441)
+[02:06:32] [Server thread/INFO]: SoySebas2011 has made the advancement [Isn't It Iron Pick]
+[02:06:41] [Server thread/INFO]: SoySebas2011 has made the advancement [Suit Up]
+[02:07:27] [Server thread/INFO]: JPOLKO issued server command: /tp SoySebas2011 JPOLKO
+[02:07:27] [Server thread/INFO]: [JPOLKO: Teleported SoySebas2011 to JPOLKO]
+[02:10:38] [Server thread/INFO]: JPOLKO lost connection: Disconnected
+[02:10:38] [Server thread/INFO]: JPOLKO left the game
+[02:10:43] [User Authenticator #6/INFO]: UUID of player JPOLKO is e49ea68c-6b63-36aa-b865-48ca087b01e5
+[02:10:44] [Server thread/INFO]: JPOLKO joined the game
+[02:10:44] [Server thread/INFO]: JPOLKO[/127.192.12.116:41991] logged in with entity id 42099 at ([world_nether]65.69999998807907, 229.5, -44.683588074785156)
+[02:11:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2584ms or 51 ticks behind
+[02:11:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3327ms or 66 ticks behind
+[02:12:00] [Server thread/INFO]: Villager Villager['Villager'/19623, uuid='fa79fe94-c956-40c8-a7d1-400e499ae617', l='ServerLevel[world]', x=-25.86, y=67.19, z=70.30, cpos=[-2, 4], tl=25445, v=true] died, message: 'Villager was squished too much'
+[02:16:41] [Server thread/INFO]: SoySebas2011 has made the advancement [Monster Hunter]
+[02:18:43] [Server thread/INFO]: SoySebas2011 was slain by Zombie
+[02:22:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2526ms or 50 ticks behind
+[02:31:28] [User Authenticator #7/INFO]: UUID of player Santiago_396 is 56f60926-f8be-3273-9f56-0f91d608ba5e
+[02:31:29] [Server thread/INFO]: Santiago_396 joined the game
+[02:31:29] [Server thread/INFO]: Santiago_396[/127.58.168.92:53655] logged in with entity id 53851 at ([world]-192.42711787553662, 77.0, -65.38573688108463)
+[02:31:41] [Server thread/INFO]: Villager Villager['Villager'/36508, uuid='97cfcbb1-554f-4f1e-9168-637f792a18c8', l='ServerLevel[world]', x=-25.88, y=67.15, z=70.70, cpos=[-2, 4], tl=33053, v=true] died, message: 'Villager was squished too much'
+[02:32:01] [Server thread/WARN]: Santiago_396 was kicked for floating too long!
+[02:32:01] [Server thread/INFO]: Santiago_396 lost connection: Flying is not enabled on this server
+[02:32:01] [Server thread/INFO]: Santiago_396 left the game
+[02:32:24] [User Authenticator #7/INFO]: UUID of player Santiago_396 is 56f60926-f8be-3273-9f56-0f91d608ba5e
+[02:32:25] [Server thread/INFO]: Santiago_396 joined the game
+[02:32:25] [Server thread/INFO]: Santiago_396[/127.58.168.92:56151] logged in with entity id 54664 at ([world]-99.45469199826894, 111.10615988254219, 14.552544169192808)
+[02:33:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2534ms or 50 ticks behind
+[02:34:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3209ms or 64 ticks behind
+[02:37:10] [Server thread/INFO]: Villager Villager['Villager'/13832, uuid='b5332846-1f56-45a9-986f-4ed4a8118ce2', l='ServerLevel[world]', x=-25.81, y=67.26, z=70.30, cpos=[-2, 4], tl=79382, v=true] died, message: 'Villager was squished too much'
+[02:38:31] [Server thread/INFO]: JPOLKO lost connection: Disconnected
+[02:38:31] [Server thread/INFO]: JPOLKO left the game
+[02:38:35] [Server thread/INFO]: SoySebas2011 has made the advancement [We Need to Go Deeper]
+[02:41:47] [Server thread/INFO]: SoySebas2011 lost connection: Disconnected
+[02:41:47] [Server thread/INFO]: SoySebas2011 left the game
+[02:41:50] [User Authenticator #8/INFO]: UUID of player SoySebas2011 is 6d661683-56da-30ed-8912-23cb67419a7d
+[02:41:51] [Server thread/INFO]: SoySebas2011 joined the game
+[02:41:51] [Server thread/INFO]: SoySebas2011[/127.166.134.64:42255] logged in with entity id 61224 at ([world]265.967692129634, 79.0, 650.4671062780075)
+[02:44:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
+[02:45:04] [Server thread/INFO]: SoySebas2011 has made the advancement [What a Deal!]
+[02:45:48] [Server thread/INFO]: Villager Villager['Villager'/29300, uuid='b9d25c3e-de63-4b59-a250-151b701b92cf', l='ServerLevel[world]', x=-25.89, y=67.18, z=70.30, cpos=[-2, 4], tl=56115, v=true] died, message: 'Villager was squished too much'
+[02:48:06] [Server thread/INFO]: Santiago_396 issued server command: /tp Camilo912a
+[02:48:06] [Server thread/INFO]: [Santiago_396: Teleported Santiago_396 to Camilo912a]
+[02:48:45] [User Authenticator #9/INFO]: UUID of player JPOLKO is e49ea68c-6b63-36aa-b865-48ca087b01e5
+[02:48:46] [Server thread/INFO]: JPOLKO joined the game
+[02:48:46] [Server thread/INFO]: JPOLKO[/127.192.12.116:46537] logged in with entity id 66780 at ([world_nether]66.84261197816296, 230.0, -44.09726691372277)
+[02:53:09] [Server thread/INFO]: JPOLKO lost connection: Disconnected
+[02:53:09] [Server thread/INFO]: JPOLKO left the game
+[02:56:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[02:56:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2596ms or 51 ticks behind
+[02:56:47] [Server thread/INFO]: Villager Villager['Villager'/5922, uuid='e89c7090-2db1-4eda-a2b5-f0f578efabab', l='ServerLevel[world]', x=-25.88, y=67.31, z=70.70, cpos=[-2, 4], tl=126745, v=true] died, message: 'Villager was squished too much'
+[02:57:51] [Server thread/INFO]: Villager Villager['Villager'/15848, uuid='57fe6985-3b21-4a1d-8b7b-252cfbcdc7a8', l='ServerLevel[world]', x=-25.89, y=67.16, z=70.30, cpos=[-2, 4], tl=95199, v=true] died, message: 'Villager was squished too much'
+[03:00:47] [Server thread/INFO]: Villager Villager['Villager'/53347, uuid='45aaf437-a875-42b6-b7ca-ad8fc798a782', l='ServerLevel[world]', x=-25.87, y=67.19, z=70.59, cpos=[-2, 4], tl=35783, v=true] died, message: 'Villager was squished too much'
+[03:03:29] [User Authenticator #10/INFO]: UUID of player JPOLKO is e49ea68c-6b63-36aa-b865-48ca087b01e5
+[03:03:30] [Server thread/INFO]: JPOLKO joined the game
+[03:03:30] [Server thread/INFO]: JPOLKO[/127.192.12.116:37523] logged in with entity id 76660 at ([world_nether]44.581420563745105, 252.5, -62.0105918189632)
+[03:03:41] [Server thread/WARN]: JPOLKO moved wrongly!
+[03:03:44] [Server thread/INFO]: JPOLKO lost connection: Disconnected
+[03:03:44] [Server thread/INFO]: JPOLKO left the game
+[03:07:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
+[03:07:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3823ms or 76 ticks behind
+[03:10:08] [Server thread/INFO]: Camilo912a has completed the challenge [Return to Sender]
+[03:11:41] [Server thread/INFO]: SoySebas2011 was slain by Enderman
+[03:11:46] [Async Chat Thread - #2/INFO]: [Not Secure] <Camilo912a> xd
+[03:13:20] [Server thread/INFO]: Villager Villager['Villager'/56534, uuid='5f80d20d-f66a-4dde-81e4-f2525024d8ab', l='ServerLevel[world]', x=-25.78, y=67.19, z=70.58, cpos=[-2, 4], tl=44357, v=true] died, message: 'Villager was squished too much'
+[03:18:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[03:19:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7696ms or 153 ticks behind
+[03:22:05] [Server thread/INFO]: Villager Villager['Villager'/42067, uuid='29118acb-c47f-4d73-a081-beb0e284a722', l='ServerLevel[world]', x=-25.87, y=67.17, z=70.30, cpos=[-2, 4], tl=84972, v=true] died, message: 'Villager was squished too much'
+[03:23:13] [Server thread/INFO]: Villager Villager['Villager'/8166, uuid='a0028662-bdc2-4e0e-a773-5f213ebb3995', l='ServerLevel[world]', x=-25.90, y=67.18, z=70.30, cpos=[-2, 4], tl=148714, v=true] died, message: 'Villager was squished too much'
+[03:24:16] [Server thread/INFO]: SoySebas2011 has made the advancement [Sweet Dreams]
+[03:30:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
+[03:41:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2539ms or 50 ticks behind
+[03:50:52] [Server thread/WARN]: Camilo912a moved too quickly! 5.5493874830543035,1.02922321120775,-10.947832927034383
+[03:50:54] [Server thread/INFO]: Villager Villager['Villager'/70245, uuid='75a3834a-7dc2-4dc0-baea-f7d24d4e0eb1', l='ServerLevel[world]', x=-25.90, y=67.19, z=70.30, cpos=[-2, 4], tl=68601, v=true] died, message: 'Villager was squished too much'
+[03:51:55] [Server thread/WARN]: Camilo912a moved wrongly!
+[03:52:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2556ms or 51 ticks behind
+[03:55:09] [Server thread/INFO]: Villager Villager['Villager'/61439, uuid='1a88ea79-bda8-4eb3-a189-038250813c72', l='ServerLevel[world]', x=-25.85, y=67.15, z=70.30, cpos=[-2, 4], tl=86713, v=true] died, message: 'Villager was squished too much'
+[03:57:00] [Server thread/INFO]: Villager Villager['Villager'/98854, uuid='8d90792a-8c00-4ae1-86ff-6447d6298b19', l='ServerLevel[world]', x=-25.81, y=67.15, z=70.70, cpos=[-2, 4], tl=28669, v=true] died, message: 'Villager was squished too much'
+[04:00:18] [Server thread/INFO]: Villager Villager['Villager'/89557, uuid='6c83585e-e62f-46b8-9e08-f2a01c41692c', l='ServerLevel[world]', x=-25.88, y=67.24, z=70.59, cpos=[-2, 4], tl=47351, v=true] died, message: 'Villager was squished too much'
+[04:00:54] [Server thread/INFO]: Villager Villager['Villager'/92054, uuid='d428eeab-7987-476d-8adf-0bb4f19c7612', l='ServerLevel[world]', x=-25.82, y=67.18, z=70.57, cpos=[-2, 4], tl=41655, v=true] died, message: 'Villager was squished too much'
+[04:01:13] [Server thread/INFO]: Villager Villager['Villager'/79124, uuid='78d334f3-72b5-42fa-a671-c1fa13074576', l='ServerLevel[world]', x=-25.87, y=67.20, z=70.58, cpos=[-2, 4], tl=64949, v=true] died, message: 'Villager was squished too much'
+[04:01:33] [Server thread/INFO]: Villager Villager['Villager'/74047, uuid='ac8aaee8-5fed-4d60-957e-ebf79ca25f4e', l='ServerLevel[world]', x=-25.84, y=67.19, z=70.45, cpos=[-2, 4], tl=74204, v=true] died, message: 'Villager was squished too much'
+[04:03:35] [User Authenticator #11/INFO]: UUID of player JPOLKO is e49ea68c-6b63-36aa-b865-48ca087b01e5
+[04:03:35] [Server thread/INFO]: JPOLKO joined the game
+[04:03:35] [Server thread/INFO]: JPOLKO[/127.192.12.116:52279] logged in with entity id 114818 at ([world_nether]46.676321355626875, 252.5, -63.58412653007771)
+[04:04:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2520ms or 50 ticks behind
+[04:04:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5459ms or 109 ticks behind
+[04:15:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2526ms or 50 ticks behind
+[04:15:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7262ms or 145 ticks behind
+[04:19:53] [Server thread/WARN]: JPOLKO moved wrongly!
+[04:23:49] [Server thread/WARN]: JPOLKO moved wrongly!
+[04:26:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
+[04:27:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16539ms or 330 ticks behind
+[04:29:17] [Server thread/WARN]: JPOLKO moved wrongly!
+[04:30:40] [Server thread/INFO]: JPOLKO issued server command: /tp Camilo912a JPOLKO
+[04:30:40] [Server thread/INFO]: [JPOLKO: Teleported Camilo912a to JPOLKO]
+[04:31:01] [Server thread/WARN]: JPOLKO moved wrongly!
+[04:35:03] [Async Chat Thread - #4/INFO]: [Not Secure] <SoySebas2011> 114 190
+[04:37:40] [Server thread/WARN]: JPOLKO moved wrongly!
+[04:38:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
+[04:38:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6071ms or 121 ticks behind
+[04:46:38] [Server thread/INFO]: Villager Villager['Villager'/106759, uuid='bb6d0d90-3023-4670-a61d-a71c8bb94e0f', l='ServerLevel[world]', x=-25.87, y=67.16, z=70.30, cpos=[-2, 4], tl=63925, v=true] died, message: 'Villager was squished too much'
+[04:49:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2567ms or 51 ticks behind
+[04:49:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3888ms or 77 ticks behind
+[04:51:17] [Server thread/WARN]: Camilo912a moved wrongly!
+[04:51:55] [Server thread/WARN]: Camilo912a moved wrongly!
+[04:53:22] [Server thread/INFO]: Villager Villager['Villager'/103544, uuid='e868dc1e-bf96-4581-931d-db760116702e', l='ServerLevel[world]', x=-25.90, y=67.19, z=70.30, cpos=[-2, 4], tl=80716, v=true] died, message: 'Villager was squished too much'
+[04:53:35] [Async Chat Thread - #6/INFO]: [Not Secure] <JPOLKO> 65 230 -46
+[04:53:40] [Server thread/INFO]: JPOLKO issued server command: /tp Camilo912a
+[04:53:40] [Server thread/INFO]: [JPOLKO: Teleported JPOLKO to Camilo912a]
+[04:57:12] [Server thread/WARN]: JPOLKO moved wrongly!
+[04:58:16] [Server thread/INFO]: Santiago_396 issued server command: /gamemode spectator
+[04:58:16] [Server thread/INFO]: [Santiago_396: Set own game mode to Spectator Mode]
+[04:58:18] [Server thread/INFO]: Santiago_396 issued server command: /gamemode survival
+[04:58:18] [Server thread/INFO]: [Santiago_396: Set own game mode to Survival Mode]
+[04:58:46] [Server thread/INFO]: Santiago_396 issued server command: /gamemode spectator
+[04:58:46] [Server thread/INFO]: [Santiago_396: Set own game mode to Spectator Mode]
+[04:58:50] [Server thread/INFO]: Santiago_396 issued server command: /gamemode survival
+[04:58:50] [Server thread/INFO]: [Santiago_396: Set own game mode to Survival Mode]
+[05:00:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
+[05:01:36] [Server thread/WARN]: Santiago_396 moved wrongly!
+[05:01:36] [Server thread/WARN]: Santiago_396 moved wrongly!
+[05:01:36] [Server thread/WARN]: Santiago_396 moved wrongly!
+[05:02:00] [Server thread/WARN]: Santiago_396 moved wrongly!
+[05:02:01] [Server thread/WARN]: Santiago_396 moved wrongly!
+[05:02:46] [Server thread/INFO]: JPOLKO issued server command: /gamemode spectator
+[05:02:46] [Server thread/INFO]: [JPOLKO: Set own game mode to Spectator Mode]
+[05:02:51] [Server thread/INFO]: JPOLKO issued server command: /gamemode survival
+[05:02:51] [Server thread/INFO]: [JPOLKO: Set own game mode to Survival Mode]
+[05:03:41] [Server thread/INFO]: JPOLKO issued server command: /tp Santiago_396
+[05:03:41] [Server thread/INFO]: [JPOLKO: Teleported JPOLKO to Santiago_396]
+[05:03:48] [Server thread/INFO]: JPOLKO issued server command: /tp SoySebas2011
+[05:03:48] [Server thread/INFO]: [JPOLKO: Teleported JPOLKO to SoySebas2011]
+[05:04:18] [Server thread/INFO]: Named entity Skeleton['XP'/123163, uuid='968eb733-0194-42fd-977d-e517e3dd1484', l='ServerLevel[world]', x=312.50, y=76.00, z=691.50, cpos=[19, 43], tl=5028, v=true] died: XP burned to death
+[05:04:46] [Async Chat Thread - #8/INFO]: [Not Secure] <Camilo912a> chagepete dame unas elitras
+[05:05:24] [Server thread/INFO]: JPOLKO issued server command: /tp SoySebas2011
+[05:05:24] [Server thread/INFO]: [JPOLKO: Teleported JPOLKO to SoySebas2011]
+[05:05:35] [Server thread/INFO]: SoySebas2011 has reached the goal [Sky's the Limit]
+[05:05:37] [Server thread/INFO]: SoySebas2011 has reached the goal [Postmortal]
+[05:05:38] [Server thread/INFO]: SoySebas2011 was blown up by JPOLKO
+[05:05:49] [Server thread/INFO]: JPOLKO issued server command: /tp SoySebas2011 JPOLKO
+[05:05:49] [Server thread/INFO]: [JPOLKO: Teleported SoySebas2011 to JPOLKO]
+[05:07:04] [Server thread/INFO]: SoySebas2011 was slain by Santiago_396
+[05:09:27] [Server thread/WARN]: Santiago_396 moved wrongly!
+[05:10:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2579ms or 51 ticks behind
+[05:10:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[05:11:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2665ms or 53 ticks behind
+[05:11:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
+[05:12:05] [Server thread/INFO]: Villager Villager['Villager'/115988, uuid='7dee4c29-fd81-4a36-b428-8a42472b13e0', l='ServerLevel[world]', x=-25.86, y=67.10, z=70.30, cpos=[-2, 4], tl=79943, v=true] died, message: 'Villager was squished too much'
+[05:12:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4254ms or 85 ticks behind
+[05:12:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14865ms or 297 ticks behind
+[05:12:52] [Server thread/INFO]: Villager Villager['Villager'/110933, uuid='7a2d9586-3d24-444e-923e-860616007e84', l='ServerLevel[world]', x=-25.83, y=67.36, z=70.54, cpos=[-2, 4], tl=88162, v=true] died, message: 'Villager was squished too much'
+[05:12:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5839ms or 116 ticks behind
+[05:13:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2554ms or 51 ticks behind
+[05:13:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2528ms or 50 ticks behind
+[05:20:08] [Server thread/INFO]: Villager Villager['Villager'/134259, uuid='0e865fcd-23b2-40b6-95db-305f36fa410a', l='ServerLevel[world]', x=-25.89, y=67.17, z=70.70, cpos=[-2, 4], tl=60098, v=true] died, message: 'Villager was squished too much'
+[05:21:24] [Server thread/INFO]: Santiago_396 issued server command: /tp Camilo912a
+[05:21:24] [Server thread/INFO]: [Santiago_396: Teleported Santiago_396 to Camilo912a]
+[05:23:58] [Server thread/INFO]: Villager Villager['Villager'/141718, uuid='e1a0b2a8-6f6b-4513-8cd8-23ff0c0ef0ec', l='ServerLevel[world]', x=-25.87, y=67.21, z=70.58, cpos=[-2, 4], tl=49491, v=true] died, message: 'Villager was squished too much'
